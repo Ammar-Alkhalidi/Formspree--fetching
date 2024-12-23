@@ -26,3 +26,4 @@ Form elements are styled for readability and usability, with features like borde
 Submission Button:
 
 The button for form submission is styled but commented out, making the form non-functional unless these styles are uncommented or replaced.
+Scripted by :AMMAR ALKHALIDI
